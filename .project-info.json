@@ -1,0 +1,15 @@
+{
+  "name": "test-app",
+  "type": "react",
+  "created_at": "2025-09-19T21:46:12.815305",
+  "created_by": "Cursor AI Project Creator",
+  "location": "/Users/danielborrowman/Developer/Projects/test-app",
+  "standards_applied": [
+    "Git initialization",
+    "Best practices structure",
+    "Comprehensive documentation",
+    "CI/CD pipeline setup",
+    "Code quality tools",
+    "ClickUp project tracking"
+  ]
+}

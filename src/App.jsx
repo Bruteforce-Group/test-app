@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
         <h1>test-app</h1>
         <p>A test React application to verify the project creation tool</p>
+        <p>✅ CI/CD workflow test - Updated: {new Date().toLocaleString()}</p>
         <button 
           className="btn-primary"
           onClick={() => alert('Welcome to test-app!')}
